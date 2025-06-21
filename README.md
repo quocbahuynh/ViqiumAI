@@ -14,6 +14,7 @@ Viqium AI empowers sellers to automate their sales processes, dramatically reduc
 
 ### Advanced AI Sales Skills & Upselling
 Train your chatbot with specific sales and upselling skills to maximize revenue:
+- **Visual Product Search:** Customers can send an image in the chat, and the AI will automatically find and recommend the corresponding or visually similar products from your store.
 - **Discount Campaigns:** Create and deploy product discount campaigns.
 - **Gift Promotions:** Offer automated gifts to customers when they purchase specific products.
 - **Wholesale Pricing:** Handle B2B inquiries and offer bulk/wholesale pricing.
