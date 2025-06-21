@@ -1,46 +1,59 @@
-# 🤖 Viqium AI - E-Commerce Chatbot Platform
+# Viqium AI - E-Commerce Chatbot Platform
 
 ![Viqium AI Overview](https://tuananhdo0308.github.io/TuananhDo_Portfolio/images/Viqium.png)
 
-> An automated AI Chatbot Platform designed specifically for e-commerce sellers to handle customer inquiries, product recommendations, and order tracking across multiple platforms.
+An automated AI Chatbot Platform designed specifically for e-commerce sellers, especially fashion shops, to handle customer inquiries, recommend products, execute sales strategies, and manage orders across multiple platforms.
 
-Viqium AI is a unified system that empowers e-commerce sellers to automate their sales processes, dramatically reduce response times, and seamlessly integrate intelligent chatbots into third-party websites, Facebook, and more.
+Viqium AI empowers sellers to automate their sales processes, dramatically reduce response times, and seamlessly integrate intelligent chatbots into third-party websites and Facebook fan pages.
 
-## ✨ Key Features
+## Key Features
 
-- **Omnichannel Integration:** Connects effortlessly across custom websites, Facebook fan pages, and more.
-- **Embeddable Widget:** Comes with a custom JavaScript embed code, allowing non-technical users to inject the chatbot into any third-party website with a single line of code.
-- **Smart Product Recommendations:** Leverages AI (OpenAI, Replicate, Jina AI) to understand customer intent and suggest products dynamically.
-- **Automated Order Tracking:** Customers can query their order status directly through the chat interface.
-- **Comprehensive Dashboard:** A fully responsive admin panel for sellers to manage products, promotions, AI knowledge base (memory), and view conversation analytics.
+### Omnichannel Integration
+- **Integrate Chatbot with Fanpages:** Automatically connect and manage conversations from your Facebook Fanpages 24/7.
+- **Integrate Chatbot with Websites:** Comes with a custom JavaScript embed code, allowing users to inject the chatbot into any third-party website with a single line of code.
 
-## 🛠 Tech Stack
+### Advanced AI Sales Skills & Upselling
+Train your chatbot with specific sales and upselling skills to maximize revenue:
+- **Discount Campaigns:** Create and deploy product discount campaigns.
+- **Gift Promotions:** Offer automated gifts to customers when they purchase specific products.
+- **Wholesale Pricing:** Handle B2B inquiries and offer bulk/wholesale pricing.
+- **Combo Deals:** Recommend and execute savings combos to increase the average order value.
+
+### Data & Product Management
+- **Product Uploads:** Easily upload and manage your product catalog.
+- **RAG Data (Retrieval-Augmented Generation):** Train the AI on your specific business knowledge base, documents, and product data so it answers questions accurately based on your rules.
+
+### Order Tracking & Analytics
+- **Dashboard Analytics:** A comprehensive dashboard to monitor and track the number of successfully closed orders by the AI.
+- **Automated Email Notifications:** Automatically send email notifications to the seller/customer as soon as an order is successfully closed.
+
+## Tech Stack
 
 Our platform is built with modern web technologies, ensuring performance, scalability, and an excellent developer experience.
 
 ### Frontend
-- **Framework:** Next.js, React 19
-- **Styling:** Tailwind CSS, Framer Motion (Animations)
-- **State Management:** Redux Toolkit, React-Redux
-- **Authentication:** NextAuth.js
+- Framework: Next.js, React 19
+- Styling: Tailwind CSS, Framer Motion
+- State Management: Redux Toolkit
+- Authentication: NextAuth.js
 
 ### Backend & AI Infrastructure
-- **Server:** Node.js, Express, TypeScript
-- **Database:** MongoDB (with Vector Search) & Redis (Caching/Sessions)
-- **AI Models:** 
+- Server: Node.js, Express, TypeScript
+- Database: MongoDB (with Vector Search) & Redis (Caching/Sessions)
+- AI Models: 
   - OpenAI (Generative & Embeddings)
   - Jina AI (CLIP models for visual search)
   - Replicate
-- **Media & Storage:** Bunny.net, Cloudinary
+- Media & Storage: Bunny.net, Cloudinary
 
-## 🚀 Getting Started
+## Getting Started
 
 We provide two ways to run the project locally. Using Docker is the recommended approach for the simplest setup.
 
 ### Option 1: Docker (Recommended)
 You do not need MongoDB or Redis installed locally. Docker will spin up the entire Full-stack application for you.
 
-1. Ensure [Docker Desktop](https://www.docker.com/products/docker-desktop/) is installed.
+1. Ensure Docker Desktop is installed.
 2. Clone the repository: 
    ```bash
    git clone https://github.com/quocbahuynh/ViqiumAI.git
@@ -50,8 +63,8 @@ You do not need MongoDB or Redis installed locally. Docker will spin up the enti
    ```bash
    docker-compose up --build -d
    ```
-   - **Frontend** will be available at `http://localhost:3000`
-   - **Backend API** will be available at `http://localhost:5000`
+   - Frontend will be available at `http://localhost:3000`
+   - Backend API will be available at `http://localhost:5000`
 
 ### Option 2: Native Setup
 1. Ensure Node.js (v20+), MongoDB, and Redis are running locally.
@@ -62,7 +75,7 @@ You do not need MongoDB or Redis installed locally. Docker will spin up the enti
    npm run dev
    ```
 
-## 📜 Available Scripts
+## Available Scripts
 
 From the root directory, you can run:
 - `npm run dev` - Starts the development servers (frontend and backend) concurrently.
@@ -71,5 +84,5 @@ From the root directory, you can run:
 - `npm run lint` - Runs ESLint across the codebase.
 - `npm run format` - Formats code using Prettier.
 
-## 🤝 Contributing
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+## Contributing
+Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
