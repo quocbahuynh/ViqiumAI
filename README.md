@@ -49,5 +49,3 @@ If you want to run the code:
 ## Team
 - **Tuan Anh Do** - Frontend Developer ([@TuananhDo0308](https://github.com/TuananhDo0308))
 
-## Contributing
-Read CONTRIBUTING.md to learn how to contribute to this project.
