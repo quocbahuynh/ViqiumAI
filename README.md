@@ -17,10 +17,10 @@ An intelligent sales chatbot with built-in upselling skills, seamlessly integrat
 
 ## Core Features
 
-### 1. Omnichannel Integration (Facebook & Website)
-Seamlessly deploy your AI Chatbot across your most critical sales channels:
-- **Facebook Fanpage Integration:** Connect your chatbot directly to your Facebook Fanpages with just a few clicks. The AI will monitor your page 24/7, instantly replying to customer inquiries via Messenger, handling FAQs, and guiding users to purchase without any human intervention.
-- **Website Widget Integration:** No coding experience required. Viqium AI provides a lightweight, custom JavaScript embed code (`<script>`). Simply paste this single line of code into your website's HTML, and a fully functional, floating AI chat widget will instantly appear on your storefront to assist visitors.
+### 1. Connect to Facebook & Website
+Deploy your AI Chatbot anywhere in seconds:
+- **Facebook Fanpages:** The AI replies to customer messages 24/7 automatically, guiding them to buy without human help.
+- **Websites:** Just paste a single line of `<script>` code to add the floating chat widget to your website. No coding required.
 
 ### 2. Smart AI Sales & Upselling
 Viqium AI acts as a 24/7 virtual sales representative equipped with advanced sales tactics:
