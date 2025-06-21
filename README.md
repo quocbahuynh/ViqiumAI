@@ -47,20 +47,27 @@ The chatbot acts like a real salesperson with smart skills:
 
 ## Tech Stack
 
+Powered by an enterprise-grade, highly scalable architecture:
 
-Built with modern and fast tools:
-- **Frontend:** Next.js, React 19, Tailwind CSS, Redux
-- **Backend:** Node.js, Express, TypeScript
-- **Database:** MongoDB & Redis
-- **AI Tools:** OpenAI, Jina AI, Replicate
+### ⚡ Frontend (Blazing Fast UI)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-## Available Scripts
+### 🛡️ Backend (Robust & Secure)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-If you want to run the code:
-- `npm run dev` - Run both frontend and backend for development.
-- `npm run build` - Build the project for production.
-- `npm start` - Run the production project.
-- `npm run lint` - Check code for errors.
+### 🗄️ Database (High Performance)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🧠 AI Infrastructure (Cutting-edge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Jina AI](https://img.shields.io/badge/Jina_AI-008272?style=for-the-badge)
+![Replicate](https://img.shields.io/badge/Replicate-black?style=for-the-badge)
 
 ## Team
 - **Tuan Anh Do** - Frontend Developer ([@TuananhDo0308](https://github.com/TuananhDo0308))
