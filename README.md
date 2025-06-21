@@ -1,5 +1,10 @@
 # Viqium AI - Advanced E-Commerce Chatbot Platform
 
+![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-20+-43853D?style=flat-square&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-Vector_Search-4EA94B?style=flat-square&logo=mongodb)
+![License](https://img.shields.io/badge/License-Proprietary-red?style=flat-square)
+
 
 
 ![Viqium AI Overview](https://tuananhdo0308.github.io/TuananhDo_Portfolio/images/Viqium.png)
