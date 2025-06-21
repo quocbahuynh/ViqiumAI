@@ -2,7 +2,7 @@
 
 ![Viqium AI Overview](https://tuananhdo0308.github.io/TuananhDo_Portfolio/images/Viqium.png)
 
-An AI Chatbot built for online sellers (especially fashion shops) to answer customer messages automatically, sell products, and manage orders. 
+An AI Chatbot built for online sellers across various industries to answer customer messages automatically, sell products, and manage orders. 
 
 🌍 **Project Overview & Details:** [View on Portfolio](https://www.tuananhdo.site/projects/viqium-ai)
 
