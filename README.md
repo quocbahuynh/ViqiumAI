@@ -39,6 +39,17 @@ Viqium AI acts as a 24/7 virtual sales representative equipped with advanced sal
 
 ---
 
+## Enterprise & SaaS Architecture
+Beyond a simple chatbot, Viqium AI is built as a complete multi-tenant SaaS platform:
+- **Multi-Tenancy & Project Management:** A single user account can create and manage multiple distinct chatbot projects or stores simultaneously.
+- **SaaS Subscription Plans:** Built-in tier-based subscription system (Free, Pro, Enterprise) to manage resource allocation and limits.
+- **Agentic AI Workflows (LangGraph):** Leverages LangGraph for complex, stateful multi-agent workflows, allowing the AI to remember context, branch conversations, and perform advanced reasoning.
+- **Social OAuth Authentication:** Secure and quick onboarding with Google and Facebook login integrations via Passport.js.
+- **Automated Background Jobs:** Utilizes Cron jobs for asynchronous, non-blocking data aggregation and message analytics.
+- **Interactive API Documentation:** Exposes a fully documented and interactive Swagger UI for seamless third-party integrations.
+
+---
+
 ## Comprehensive Tech Stack
 
 Powered by a modern, highly scalable, and secure architecture designed for heavy workloads.
