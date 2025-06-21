@@ -9,7 +9,7 @@
 
 ![Viqium AI Overview](https://www.tuananhdo.site/images/Viqium.png)
 
-Viqium AI is an intelligent sales chatbot equipped with advanced upselling skills. It integrates seamlessly into your Facebook Fanpages and websites to automate customer interactions, drive sales through smart upselling strategies, and manage cross-platform orders with zero friction.
+An intelligent sales chatbot with built-in upselling skills, seamlessly integrated into your Facebook Fanpage and Website to automate sales.
 
 **Project Overview & Details:** [View on Portfolio](https://www.tuananhdo.site/projects/viqium-ai)
 
