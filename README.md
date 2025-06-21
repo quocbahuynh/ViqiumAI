@@ -7,7 +7,7 @@
 
 
 
-![Viqium AI Overview](https://tuananhdo0308.github.io/TuananhDo_Portfolio/images/Viqium.png)
+![Viqium AI Overview](https://www.tuananhdo.site/images/Viqium.png)
 
 An enterprise-grade AI Chatbot Platform built for online sellers across various industries. Viqium AI empowers e-commerce businesses to automate customer interactions, deploy smart upselling strategies, and manage cross-platform orders with zero friction.
 
