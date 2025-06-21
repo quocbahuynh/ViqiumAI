@@ -30,7 +30,23 @@ The chatbot acts like a real salesperson with smart skills:
 - **Admin Dashboard:** A simple screen to track how many orders the AI has successfully closed.
 - **Auto Emails:** Send an email automatically to the customer and you when an order is closed.
 
+## Gallery
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dbwocyqha/image/upload/v1779869307/Screenshot_2026-05-27_at_15.05.44_ry0ojo.png" width="48%" />
+  <img src="https://res.cloudinary.com/dbwocyqha/image/upload/v1779869418/Product_1_i5v0c2.webp" width="48%" />
+</p>
+<p align="center">
+  <img src="https://res.cloudinary.com/dbwocyqha/image/upload/v1779869418/Voucher_1_pdciv2.webp" width="48%" />
+  <img src="https://res.cloudinary.com/dbwocyqha/image/upload/v1779869417/Product_3_pl79cz.webp" width="48%" />
+</p>
+<p align="center">
+  <img src="https://res.cloudinary.com/dbwocyqha/image/upload/v1779869418/Information_from_Viqium_Production_bwcy6g.webp" width="48%" />
+  <img src="https://res.cloudinary.com/dbwocyqha/image/upload/v1779869417/AI_Image_zxvpzj.webp" width="48%" />
+</p>
+
 ## Tech Stack
+
 
 Built with modern and fast tools:
 - **Frontend:** Next.js, React 19, Tailwind CSS, Redux
