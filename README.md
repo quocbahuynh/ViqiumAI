@@ -2,60 +2,47 @@
 
 ![Viqium AI Overview](https://tuananhdo0308.github.io/TuananhDo_Portfolio/images/Viqium.png)
 
-An automated AI Chatbot Platform designed specifically for e-commerce sellers, especially fashion shops, to handle customer inquiries, recommend products, execute sales strategies, and manage orders across multiple platforms.
+An AI Chatbot built for online sellers (especially fashion shops) to answer customer messages automatically, sell products, and manage orders. 
 
-Viqium AI empowers sellers to automate their sales processes, dramatically reduce response times, and seamlessly integrate intelligent chatbots into third-party websites and Facebook fan pages.
+Viqium AI helps you save time, reply faster, and connect the chatbot directly to your Website and Facebook pages.
 
 ## Key Features
 
-### Omnichannel Integration
-- **Integrate Chatbot with Fanpages:** Automatically connect and manage conversations from your Facebook Fanpages 24/7.
-- **Integrate Chatbot with Websites:** Comes with a custom JavaScript embed code, allowing users to inject the chatbot into any third-party website with a single line of code.
+### 1. Connect Fanpage & Website
+- **Facebook Fanpages:** The chatbot replies to customer messages 24/7 automatically.
+- **Websites:** You can easily add the chatbot to any website by pasting a single line of code.
 
-### Advanced AI Sales Skills & Upselling
-Train your chatbot with specific sales and upselling skills to maximize revenue:
-- **Visual Product Search:** Customers can send an image in the chat, and the AI will automatically find and recommend the corresponding or visually similar products from your store.
-- **Discount Campaigns:** Create and deploy product discount campaigns.
-- **Gift Promotions:** Offer automated gifts to customers when they purchase specific products.
-- **Wholesale Pricing:** Handle B2B inquiries and offer bulk/wholesale pricing.
-- **Combo Deals:** Recommend and execute savings combos to increase the average order value.
+### 2. AI Sales Skills (Upselling)
+The chatbot acts like a real salesperson with smart skills:
+- **Find Products by Image:** Customers can send a photo, and the AI will find the exact or similar products in your store.
+- **Discount Campaigns:** Create special discount events for your products.
+- **Gift Offers:** Give free gifts when customers buy certain items.
+- **Wholesale Prices:** Give special cheap prices for customers buying in large quantities.
+- **Combo Deals:** Recommend product combos to help customers save money.
 
-### Data & Product Management
-- **Product Uploads:** Easily upload and manage your product catalog.
-- **RAG Data (Retrieval-Augmented Generation):** Train the AI on your specific business knowledge base, documents, and product data so it answers questions accurately based on your rules.
+### 3. Manage Products & Data
+- **Upload Products:** Add and manage all your store products easily.
+- **Train AI with Your Data:** You can teach the AI about your shop rules, documents, and product details so it answers customers accurately.
 
-### Order Tracking & Analytics
-- **Dashboard Analytics:** A comprehensive dashboard to monitor and track the number of successfully closed orders by the AI.
-- **Automated Email Notifications:** Automatically send email notifications to the seller/customer as soon as an order is successfully closed.
+### 4. Order Tracking & Dashboard
+- **Admin Dashboard:** A simple screen to track how many orders the AI has successfully closed.
+- **Auto Emails:** Send an email automatically to the customer and you when an order is closed.
 
 ## Tech Stack
 
-Our platform is built with modern web technologies, ensuring performance, scalability, and an excellent developer experience.
-
-### Frontend
-- Framework: Next.js, React 19
-- Styling: Tailwind CSS, Framer Motion
-- State Management: Redux Toolkit
-- Authentication: NextAuth.js
-
-### Backend & AI Infrastructure
-- Server: Node.js, Express, TypeScript
-- Database: MongoDB (with Vector Search) & Redis (Caching/Sessions)
-- AI Models: 
-  - OpenAI (Generative & Embeddings)
-  - Jina AI (CLIP models for visual search)
-  - Replicate
-- Media & Storage: Bunny.net, Cloudinary
-
+Built with modern and fast tools:
+- **Frontend:** Next.js, React 19, Tailwind CSS, Redux
+- **Backend:** Node.js, Express, TypeScript
+- **Database:** MongoDB & Redis
+- **AI Tools:** OpenAI, Jina AI, Replicate
 
 ## Available Scripts
 
-From the root directory, you can run:
-- `npm run dev` - Starts the development servers (frontend and backend) concurrently.
-- `npm run build` - Compiles the backend TypeScript and builds the Next.js frontend for production.
-- `npm start` - Starts the compiled production versions of both applications concurrently.
-- `npm run lint` - Runs ESLint across the codebase.
-- `npm run format` - Formats code using Prettier.
+If you want to run the code:
+- `npm run dev` - Run both frontend and backend for development.
+- `npm run build` - Build the project for production.
+- `npm start` - Run the production project.
+- `npm run lint` - Check code for errors.
 
 ## Contributing
-Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
+Read CONTRIBUTING.md to learn how to contribute to this project.
