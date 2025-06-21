@@ -4,6 +4,8 @@
 
 An AI Chatbot built for online sellers (especially fashion shops) to answer customer messages automatically, sell products, and manage orders. 
 
+🌍 **Project Overview & Details:** [View on Portfolio](https://www.tuananhdo.site/projects/viqium-ai)
+
 Viqium AI helps you save time, reply faster, and connect the chatbot directly to your Website and Facebook pages.
 
 ## Key Features
