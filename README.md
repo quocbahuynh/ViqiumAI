@@ -44,5 +44,8 @@ If you want to run the code:
 - `npm start` - Run the production project.
 - `npm run lint` - Check code for errors.
 
+## Team
+- **Tuan Anh Do** - Frontend Developer ([@TuananhDo0308](https://github.com/TuananhDo0308))
+
 ## Contributing
 Read CONTRIBUTING.md to learn how to contribute to this project.
