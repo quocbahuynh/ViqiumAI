@@ -9,7 +9,7 @@
 
 ![Viqium AI Overview](https://www.tuananhdo.site/images/Viqium.png)
 
-An enterprise-grade AI Chatbot Platform built for online sellers across various industries. Viqium AI empowers e-commerce businesses to automate customer interactions, deploy smart upselling strategies, and manage cross-platform orders with zero friction.
+Viqium AI is an intelligent sales chatbot equipped with advanced upselling skills. It integrates seamlessly into your Facebook Fanpages and websites to automate customer interactions, drive sales through smart upselling strategies, and manage cross-platform orders with zero friction.
 
 **Project Overview & Details:** [View on Portfolio](https://www.tuananhdo.site/projects/viqium-ai)
 
