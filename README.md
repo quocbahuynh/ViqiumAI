@@ -66,6 +66,10 @@ The backend infrastructure is built to process thousands of concurrent webhook e
 - **Node.js:** Non-blocking, event-driven runtime ideal for real-time chat applications.
 - **Express.js:** Lightweight routing and middleware framework.
 - **TypeScript:** Ensures end-to-end type safety, significantly reducing runtime errors.
+- **Passport.js:** Handles secure Social OAuth authentication (Google, Facebook).
+- **Swagger:** Auto-generates interactive API documentation for developer integrations.
+- **Nodemailer:** Drives automated email notification workflows.
+- **Node-cron:** Manages background tasks and scheduled analytics processing.
 
 ### Database & Caching
 Optimized data layers for high-speed retrieval and heavy AI computations.
@@ -73,9 +77,11 @@ Optimized data layers for high-speed retrieval and heavy AI computations.
 - **Redis:** In-memory data structure store used for rate limiting, session caching, and sub-millisecond response times.
 
 ### AI Infrastructure (Cutting-edge)
+- **LangChain & LangGraph:** Orchestrates complex, stateful multi-agent workflows and advanced reasoning logic.
 - **OpenAI:** Powers the core conversational intelligence, natural language understanding, and text embeddings.
 - **Jina AI:** Utilized for advanced CLIP models to enable seamless visual product search.
 - **Replicate:** Handles open-source model inferencing for specialized image processing tasks.
+- **HuggingFace Transformers:** Enables robust NLP and specialized AI inference.
 
 ---
 
