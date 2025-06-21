@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "rootDir": "./",           // The root directory stays as the current one
+    "outDir": "./dist",        // Output files go to dist/
+    "module": "ESNext",
+    "target": "ES2020",
+    "moduleResolution": "node",
+    "allowJs": true,           // Allow JavaScript files
+    "checkJs": false,          // Disable checking for JS files
+    "esModuleInterop": true,   // To use ESM imports/exports correctly
+    "resolveJsonModule": true,
+    "skipLibCheck": true
+  },
+  "include": ["./**/*.ts", "./**/*.js"],  // Include all JS and TS files in the root
+  "exclude": ["dist"]                        // Don't include the dist directory
+}
