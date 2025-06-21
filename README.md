@@ -23,11 +23,11 @@ Deploy your AI Chatbot anywhere in seconds:
 - **Websites:** Just paste a single line of `<script>` code to add the floating chat widget to your website. No coding required.
 
 ### 2. Smart AI Sales & Upselling
-Viqium AI acts as a 24/7 virtual sales representative equipped with advanced sales tactics *(Hoạt động như nhân viên sales ảo 24/7 với các kỹ năng chốt đơn nâng cao)*:
-- **Visual Product Search:** Customers can upload images directly into the chat. The AI utilizes CLIP models to analyze the image and recommend the exact or visually similar products from the catalog. *(Tìm kiếm sản phẩm thông minh qua hình ảnh)*
-- **Automated Discount Campaigns:** Configure dynamic discount events that the AI can offer to hesitant buyers to close the sale. *(Tự động đề xuất mã giảm giá để chốt đơn)*
-- **Gift Promotions & Wholesale:** Automatically trigger free gift offers for specific cart thresholds or handle B2B wholesale pricing inquiries intelligently. *(Tự động tặng quà kèm theo hoặc báo giá mua sỉ)*
-- **Combo Deals:** Recommend complementary items and savings combos to increase the Average Order Value (AOV). *(Gợi ý gói Combo tiết kiệm để tăng giá trị đơn hàng)*
+Viqium AI acts as a 24/7 virtual sales representative equipped with advanced sales tactics:
+- **Visual Product Search (Tìm kiếm sản phẩm qua hình ảnh):** Customers can upload images directly into the chat. The AI utilizes CLIP models to analyze the image and recommend the exact or visually similar products from the catalog.
+- **Automated Discount Campaigns (Tự động đề xuất giảm giá):** Configure dynamic discount events that the AI can offer to hesitant buyers to close the sale.
+- **Gift Promotions & Wholesale (Tặng quà & Bán sỉ):** Automatically trigger free gift offers for specific cart thresholds or handle B2B wholesale pricing inquiries intelligently.
+- **Combo Deals (Gợi ý gói Combo tiết kiệm):** Recommend complementary items and savings combos to increase the Average Order Value (AOV).
 
 ### 3. Knowledge Base & Data Management (RAG)
 - **Product Catalog Management:** Intuitive dashboard to upload, edit, and manage store inventory.
