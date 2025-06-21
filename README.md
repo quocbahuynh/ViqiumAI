@@ -46,34 +46,6 @@ Our platform is built with modern web technologies, ensuring performance, scalab
   - Replicate
 - Media & Storage: Bunny.net, Cloudinary
 
-## Getting Started
-
-We provide two ways to run the project locally. Using Docker is the recommended approach for the simplest setup.
-
-### Option 1: Docker (Recommended)
-You do not need MongoDB or Redis installed locally. Docker will spin up the entire Full-stack application for you.
-
-1. Ensure Docker Desktop is installed.
-2. Clone the repository: 
-   ```bash
-   git clone https://github.com/quocbahuynh/ViqiumAI.git
-   ```
-3. Copy `.env.example` to `.env` and fill in your API keys (OpenAI, etc.).
-4. Run the application:
-   ```bash
-   docker-compose up --build -d
-   ```
-   - Frontend will be available at `http://localhost:3000`
-   - Backend API will be available at `http://localhost:5000`
-
-### Option 2: Native Setup
-1. Ensure Node.js (v20+), MongoDB, and Redis are running locally.
-2. Run `npm install` at the root directory to install all dependencies.
-3. Copy `.env.example` to `.env` and configure your credentials.
-4. Start both the frontend and backend concurrently:
-   ```bash
-   npm run dev
-   ```
 
 ## Available Scripts
 
